@@ -1,11 +1,11 @@
-[submodule "themes/default"]
-	path = themes/default
+[submodule "themes/HugoTeX"]
+	path = themes/HugoTeX
 	url = https://github.com/kaisugi/HugoTeX
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
-[submodule "themes/relearn"]
-	path = themes/relearn
+[submodule "themes/DoIt"]
+	path = themes/DoIt
 	url = https://github.com/HEIGE-PCloud/DoIt.git
 [submodule "themes/congo"]
 	path = themes/congo
@@ -34,6 +34,6 @@
 [submodule "themes/blox"]
 	path = themes/blox
 	url = https://github.com/HugoBlox/hugo-blox-builder.git
-[submodule "themes/relearn1"]
-	path = themes/relearn1
+[submodule "themes/relearn"]
+	path = themes/relearn
 	url = https://github.com/McShelby/hugo-theme-relearn.git
