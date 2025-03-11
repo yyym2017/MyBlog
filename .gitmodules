@@ -1,3 +1,39 @@
 [submodule "themes/default"]
 	path = themes/default
 	url = https://github.com/kaisugi/HugoTeX
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/relearn"]
+	path = themes/relearn
+	url = https://github.com/HEIGE-PCloud/DoIt.git
+[submodule "themes/congo"]
+	path = themes/congo
+	url = https://github.com/jpanther/congo.git
+[submodule "themes/blowfish"]
+	path = themes/blowfish
+	url = https://github.com/nunocoracao/blowfish.git
+[submodule "themes/docsy"]
+	path = themes/docsy
+	url = https://github.com/google/docsy.git
+[submodule "themes/doks"]
+	path = themes/doks
+	url = https://github.com/thuliteio/doks.git
+[submodule "themes/paper"]
+	path = themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper.git
+[submodule "themes/book"]
+	path = themes/book
+	url = https://github.com/alex-shpak/hugo-book.git
+[submodule "themes/coder"]
+	path = themes/coder
+	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "themes/stack"]
+	path = themes/stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack.git
+[submodule "themes/blox"]
+	path = themes/blox
+	url = https://github.com/HugoBlox/hugo-blox-builder.git
+[submodule "themes/relearn1"]
+	path = themes/relearn1
+	url = https://github.com/McShelby/hugo-theme-relearn.git
